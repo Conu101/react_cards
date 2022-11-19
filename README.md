@@ -1,3 +1,9 @@
+## Deployed live version:
+
+[Open live app on Netlify](https://endearing-fox-9f6633.netlify.app) 
+
+## Available Scripts
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
